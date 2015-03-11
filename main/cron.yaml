@@ -1,0 +1,4 @@
+cron:
+- description: Sync Contacts
+  url: /sync
+  schedule: every 1 hours
